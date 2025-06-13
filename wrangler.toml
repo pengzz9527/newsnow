@@ -1,1 +1,9 @@
 
+name = "newsnow"
+pages_build_output_dir = "dist/output/public"
+compatibility_date = "2024-10-03"
+
+[[d1_databases]]
+binding = "NEWSDB"
+database_name = "NEWSDB"
+database_id = "7b39cb43-ab93-4a49-830f-1fc101d0e1b1"
